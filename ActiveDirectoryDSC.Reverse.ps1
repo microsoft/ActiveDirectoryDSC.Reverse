@@ -8,6 +8,8 @@
 
 .COMPANYNAME Microsoft
 
+.ICONURI https://github.com/Microsoft/ActiveDirectoryDSC.Reverse/raw/master/Images/ActiveDirectoryDSC.Reverse.png
+
 .EXTERNALMODULEDEPENDENCIES
 
 .TAGS Technology,ReverseDSC
